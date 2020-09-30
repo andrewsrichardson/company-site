@@ -3,7 +3,7 @@
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "andrew@duplank.com",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -29,7 +29,8 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
     "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.75"
+    "typeface-montserrat": "0.0.75",
+    "typeface-source-sans-pro": "^1.1.5"
   },
   "devDependencies": {
     "prettier": "2.1.2"

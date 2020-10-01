@@ -31,13 +31,13 @@ const BlogIndex = ({ data, location }) => {
             technology consultancy based in London.{" "}
           </p>
           <p>
-            We specialise in working with developing brands to produce
-            functional websites of the highest modern calibre.
+            We specialise in working alongside companies to produce functional
+            websites & web-apps of the highest modern calibre.
           </p>
           <p>
-            dunplank really shines at custom implementations of forums,
-            eCommerce stores and dashboards, and knows the most up-to-date
-            development practices and technologies so that you don't have to.{" "}
+            duplank really shines at custom implementations of forums, eCommerce
+            stores and dashboards, and knows the most up-to-date development
+            practices and technologies so that you don't have to.{" "}
           </p>
           <p>
             Have a great idea? Need a new ___?{" "}

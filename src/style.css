@@ -345,13 +345,13 @@ a:focus {
 }
 
 #sos {
-  background-color: rgb(177, 237, 232, 0.2);
+  background-color: rgb(177, 237, 232, 0.4);
 }
 #intro {
-  background-color: rgb(135, 221, 130, 0.2);
+  background-color: rgb(135, 221, 130, 0.3);
 }
 #description {
-  background-color: rgb(135, 221, 130, 0.2);
+  background-color: rgb(135, 221, 130, 0.3);
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -361,10 +361,10 @@ a:focus {
   font-size: large;
 }
 #ttf {
-  background-color: rgb(246, 157, 101, 0.2);
+  background-color: rgb(246, 157, 101, 0.4);
 }
 .case-study {
-  opacity: 0.1;
+  opacity: 0.2;
   filter: grayscale(100%);
   transition: all 0.5s ease;
 }

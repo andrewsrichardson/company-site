@@ -27,7 +27,7 @@ const BlogIndex = ({ data, location }) => {
         </section>
         <section id="description" className="panel">
           <p>
-            duplank is a (currently) one-man web development studio and
+            duplank is (currently) a one-man web development studio and
             technology consultancy based in London.{" "}
           </p>
           <p>

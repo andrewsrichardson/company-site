@@ -17,9 +17,9 @@ const BlogIndex = ({ data, location }) => {
           <h3>doo·plank</h3>
           <h2>{siteDescription}</h2>
           <p>
-            React Applications, Website Development, Headless eCommerce,
-            Shopify, Custom Dashboards, API Development, Technical Consulting,
-            Project Scoping, UX Design
+            Web App MVPs, Website Development, Headless eCommerce, Shopify,
+            Custom Dashboards, API Development, Technical Consulting, Project
+            Scoping, UX Design
           </p>
           <a href="mailto:andrew@duplank.com?subject=Hello!">
             Let's get started →
